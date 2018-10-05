@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Dracula Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Rainbowth",
+		"SublimeLinter",
+		"SublimeLinter-eslint"
+	]
+}
